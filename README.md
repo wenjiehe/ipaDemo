@@ -27,8 +27,10 @@
     - 构建网站
    
         > 将应用(`.ipa`)文件和清单(`.plist`)文件上传到网站上可供已认证的 用户访问的区域,以下是示例链接:
-   
-          请确定`.ipa`文件可通过`HTTPS`进行访问，并且您的站点已使 用`iOS`信任的证书进行了签名。如果自签名证书没有受信任的锚 点并且无法由`iOS`设备验证，安装会失败。
+        
+        ![示例链接](https://github.com/wenjiehe/ipaDemo/blob/master/示例链接.png)
+        
+        > 请确定`.ipa`文件可通过`HTTPS`进行访问，并且您的站点已使 用`iOS`信任的证书进行了签名。如果自签名证书没有受信任的锚 点并且无法由`iOS`设备验证，安装会失败。
    
     - 设定服务器 `MIME` 类型
   
@@ -67,6 +69,8 @@
    * bundle-version 应用的包版本，在`Xcode`项目中指定
     
    * title 下载和安装过程中显示的应用的名称
+   
+   ![示例清单文件](https://github.com/wenjiehe/ipaDemo/blob/master/示例清单文件.png)
     
  4. 无线 iOS 应用分发故障诊断
  
