@@ -82,13 +82,12 @@
     
 5. 下载链接
 
-   把下面的链接放置在网页上，用户点击即可或者把链接生成二维码，用户拿`iPhone`手机自带相机扫码即可。
-
-   生成二维码网站:[http://tool.chinaz.com/qrcode](http://tool.chinaz.com/qrcode)
+> 把下面的链接放置在网页上，用户点击即可或者把链接生成二维码，用户拿`iPhone`手机自带相机扫码即可。
+  生成二维码网站:[http://tool.chinaz.com/qrcode](http://tool.chinaz.com/qrcode)
     
 6. 注意点
 
-   1. `manifest`文件路径必须是`https`
+    - `manifest`文件路径必须是`https`
    
-   2. `ipa`文件路径必须是`https`
+    - `ipa`文件路径必须是`https`
     
